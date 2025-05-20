@@ -1,10 +1,8 @@
-Hướng dẫn chạy:
+Cách chạy file:
 - Mở terminal 1, chạy server:
   
-        python training_server.py
+        python sever_training.py
   
 - Mở terminal 2, chạy client:
 
-        python data_sender.py
-  
-  => Chờ đợi kết quả từ server <3
+        python data.py
